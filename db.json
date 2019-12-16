@@ -6,34 +6,12 @@
 {
     "brand": "Renault", "models": ["Captur", "Clio", "Clio Grandtour", "Espace", "Express"]
 }
-
 ,
 {
     "brand": "Peugeot", "models": ["1007", "107", "106", "108", "2008"]
 }
-
-,
-{
-    "brand": "Dacia", "models": ["Dokker", "Duster", "Lodgy", "Logan", "Logan MCV"]
-}
-
-,
-{
-    "brand": "Citroën", "models": ["Berlingo", "C-Crosser", "C-Elissée", "C-Zero", "C1"]
-}
-
-,
-{
-    "brand": "Opel", "models": ["Agila", "Ampera", "Antara", "Astra", "Astra cabrio"]
-}
-
 ,
 {
     "brand": "Alfa Romeo", "models": ["145", "146", "147", "155", "156"]
-}
-
-,
-{
-    "brand": "Škoda", "models": ["Favorit", "Felicia", "Citigo", "Fabia", "Fabia Combi"]
 }
 ]
