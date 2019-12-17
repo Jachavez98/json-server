@@ -1,20 +1,16 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "fugiat veniam minus",
-    "completed": false
-  }
-]
+{
+    "brand": "Seat", "models": ["Alhambra", "Altea", "Altea XL", "Arosa", "Cordoba"]
+}
+
+,
+{
+    "brand": "Renault", "models": ["Captur", "Clio", "Clio Grandtour", "Espace", "Express"]
+}
+,
+{
+    "brand": "Peugeot", "models": ["1007", "107", "106", "108", "2008"]
+}
+,
+{
+    "brand": "Alfa Romeo", "models": ["145", "146", "147", "155", "156"]
+}
